@@ -1,1 +1,1 @@
-# Tic-Toc-Toe-JavaScript
+# Tic-Tac-Toe-JavaScript
