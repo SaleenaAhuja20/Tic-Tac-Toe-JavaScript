@@ -8,4 +8,17 @@ body{
 }
 .heading{
     color: white;
+    margin-top: 5%;
+}
+.container{
+    height: 70vh;
+}
+.game{
+    height: 1%;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    gap: 0px;
+
 }
