@@ -25,8 +25,16 @@ boxes.forEach((box) => {
         turnO = true;
        }
        box.disabled = true;
+
+       checkWinner();
     }); 
 });
+
+const checkWinner = () => {
+  for(pattern of winPatterns){
+    
+}
+}
 
 resetBtn.addEventListener("click", () =>{
     boxes.innerText = " ";
