@@ -45,9 +45,33 @@ body{
     margin-top: 10px;
     font-weight: bold;
     color: #4D2D32;
+    margin-right: 5%;
     transition: all .5s ease-in;
 }
 .Reset:hover{
     cursor: pointer;
     transform: scale(1.05);
+}
+.newGame{
+    padding: 10px 10px;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: bold;
+    color: #4D2D32;
+    transition: all .5s ease-in;
+}
+.newGame:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+}
+.msg-container{
+    height: 20px;
+    font-size: 40px;
+    color: white;
+    padding-top: 20px;
+}
+.hide{
+    display: none;
 }
